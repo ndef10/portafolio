@@ -1,0 +1,18 @@
+.acerca-de {
+    background-color: var(--primario);
+    color: var(--blanco);
+    /* align-items: center; */
+    text-align: center;
+}
+
+.acerca-de img {
+    border-radius: 50%;
+}
+
+.acerca-de h2 {
+    font-size: 4rem;
+}
+
+.acerca-de a {
+    color: var(--secundario);
+}

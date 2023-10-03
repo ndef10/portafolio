@@ -46,7 +46,7 @@ El diseño de la interfaz se realizó de acuerdo a mi gusto
 
 ## Despliegue
 
-El proyecto está disponible en el siguiente link: https://portafolionildadefranchi.netlify.app
+El proyecto está disponible en el siguiente link: https://portafoliondef.netlify.app/
 
 ## Licencia
 Este proyecto está bajo la Licencia MIT. Puedes ver el archivo de licencia aquí https://www.mit.edu/search/?q=licence+mit#gsc.tab=0&gsc.q=licence%20mit&gsc.page=1.

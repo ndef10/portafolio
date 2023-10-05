@@ -77,8 +77,9 @@ img {
 
 .btn-nuevo{
     text-decoration: none;
+
     color: var(--blanco);
-    font-size: 2rem;
+    font-size: 1.5rem;
     text-transform: capitalize;
     padding: 0.8em 3em;
     margin-bottom: 2rem;

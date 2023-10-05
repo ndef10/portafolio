@@ -14,7 +14,7 @@
     font-family: var(--titulos);
     line-height: 7rem;
     color: var(--secundario);
-    padding: 0 25rem;
+    /* padding: 0 25rem; */
     margin-bottom: 1rem;
     /* background-color: red; */
 }
@@ -37,7 +37,7 @@
     /* background-color: blue; */
     width: 1000px;
     border-radius: 5px;
-    box-shadow: 0 5px 5px var(--secundario);
+    /* box-shadow: 0 5px 5px var(--secundario); */
     text-align: center;
     padding: 0;
     margin: 20px;
@@ -45,11 +45,11 @@
 
 /* cambiar ancho, alto, quitar margen top y sombra arriba */
 .proyecto img {
-    /* width: 40rem;  */
-    width: 30rem;
-    /* height: 23rem;  */
-    height: 20rem;
-    margin-top: 3rem;
+    width: 40rem; 
+    /* width: 30rem; */
+    height: 23rem; 
+    /* height: 20rem; */
+    /* margin-top: 3rem; */
     border-radius: 1rem;
     border: 0.5rem solid var(--gris);
 }
@@ -75,16 +75,16 @@
     font-family: var(--titulos);
 }
 
-/* .botones{
+.botones {
     display: flex;
     justify-content: space-between;
-    background-color: red;
-} */
-
-.btn-nuevo {
-    width: 300px;
-    /* width: 150px; */
+    /* background-color: red; */
 }
+
+/* .btn-nuevo { */
+    /* width: 300px; */
+    /* width: 150px; */
+/* } */
 
 @media(max-width:991px){
     .proyectos {
@@ -96,15 +96,8 @@
     .proyectos-contenedor h2 {
         padding: 0;
         color: var(--secundario);
-    }
-    .proyectos-trio {
-        flex-direction: row;
-        margin-bottom: 0;
-    }
-
-    .btn-nuevo {
-        /* width: 300px; */
-        width: 150px;
+        /* background-color: red; */
+        font-size: 3.5rem;
     }
 
     .proyectos-trio {
@@ -116,6 +109,13 @@
         width: 100%; 
         margin: 10px 0; 
         padding: 0.5rem; 
+    }
+
+    .btn-nuevo {
+        width: 150px;
+        font-size: 1.2rem;
+       
+
     }
 }
 

@@ -91,6 +91,7 @@ img {
 
 .btn-nuevo:hover {
     filter: brightness(150%);
+    color: var(--primario);
 }
 
 

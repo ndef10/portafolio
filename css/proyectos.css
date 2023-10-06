@@ -19,6 +19,16 @@
     /* background-color: red; */
 }
 
+.proyectos-texto {
+    line-height: 1.5;
+
+}
+
+.proyectos-texto span {
+    color: var(--secundario);
+    font-weight: bold;
+}
+
 .proyectos-contenedor p {
     font-size: 1.8rem;
     font-family: var(--parrafos);

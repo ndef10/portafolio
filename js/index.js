@@ -17,3 +17,4 @@ menuLinks.forEach(menuLinks => {
         menu.classList.remove("menu_abierto");
     })
 })
+

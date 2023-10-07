@@ -10,7 +10,6 @@
     --degrade-oscuro: linear-gradient(to right, var(--primario), var(--gris), var(--primario));
     --success: green;
     --danger: red;
-    /* --titulos: 'Montserrat',sans-serif;  */
     --titulos: 'Belleza', sans-serif;
     --parrafos:'Montserrat',sans-serif;   
 

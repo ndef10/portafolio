@@ -16,6 +16,15 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Belleza&family=Montserrat:ital,wght@0,400;0,700;1,500&display=swap" rel="stylesheet">
 
+     <!-- font aweson -->
+     <link
+     rel="stylesheet"
+     href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+     integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw=="
+     crossorigin="anonymous"
+     referrerpolicy="no-referrer"
+   />
+
     <!-- css global -->
     <link rel="stylesheet" href="css/global.css" />
 
@@ -34,8 +43,8 @@
     <!-- proyectos -->
     <link rel="stylesheet" href="css/proyectos.css" />
 
-    <!-- otros proyectos -->
-    <link rel="stylesheet" href="css/otros.css" />
+    <!-- contacto -->
+    <link rel="stylesheet" href="css/contacto.css" />
 
 </head>
 <body>
@@ -319,8 +328,66 @@
         </div>
         
       </div>
+  </section >
+<section class="fondo">
+  <div id="contacto" class="formulario-contacto contenedor">
+    <div class="informacion-contacto">
+      <div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="nildadefranchi" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://cl.linkedin.com/in/nildadefranchi?trk=profile-badge" target="_blank"><img
+        height="100"
+        width="150"
+        loading="lazy"
+        src="assets/logos/milogo.png"
+        alt="logo"
+      /></a></div>
+      
+      <h3>Contáctame</h3>            
+      <p><i class="fa-solid fa-envelope"></i>ndefranchim@gmail.com</p>
+      <p><i class="fa-solid fa-location-dot"></i>Región Metropolitana, Santiago de Chile.</p>
+      <p><i class="fa-solid fa-phone"></i>+569 33378817</p>
+      <div class="redes-sociales">
+        <a href="https://www.linkedin.com/in/nildadefranchi/" target="_blank"><i class="fa-brands fa-linkedin"></i></a> 
+        <a href="assets/pdf/CV- Nilda Defranchi.pdf" download="CV-Nilda Defranchi.pdf"></a><i class="fa-solid fa-download"></i>               
+        <a href="https://wa.me/56933378817" target="_blank"><i class="fa-brands fa-whatsapp"></i></a>          
+      </div>
+    </div>
+  
+    <form id="form-contacto" class="formulario"  action="https://formsubmit.co/ndefranchim@gmail.com" method="POST" />
+    
+      <div class="input-formulario">
+        <label for="nombre">Nombre</label>
+        <input type="text" placeholder="Ej: La mejor empresa del mundo" name="nombre"/>
+        <span></span>
+      </div>
+      
+      <div class="input-formulario">
+        <label for="correo">Correo</label>
+        <input type="text" placeholder="Ej: ejemplo@ejemplo.com" name="correo" />
+        <span></span>
+      </div>
+      
+      <div class="input-formulario">
+        <label for="asunto">Asunto</label>
+        <input type="text" placeholder="Ej: Queremos darte una oportunidad" name="asunto" />
+        <span></span>
+      </div>
+      <div class="input-formulario">
+        <label for="mensaje">Mensaje</label>
+        <textarea name="mensaje" placeholder="Escribe aquí tu mensaje"></textarea>
+        <span></span>
+      </div>
+      <div id="mensaje_contacto"></div>
+      <div class="btn-formulario">
+        <input id="enviar" type="submit" class="btn btn-nuevo" name="submit" value="Enviar" />
+      </div>
 
-  </section>
+      <input type="hidden" name="_next" value="http://127.0.0.1:5500/index.html#contacto" ></input>
+      <input type="hidden" name="_captcha" value="false"></input> 
+
+    </form>
+  </div>
+
+</section>
+  
     <!-- js -->
     <script defer src="js/index.js"></script>
 </body>

@@ -1,0 +1,23 @@
+.footer{
+    text-align: center;
+    background-color: var(--oscuro);
+    color: var(--blanco);
+    padding-top: 3rem;
+    font-size: 2rem;
+    padding-bottom: 2rem;
+}
+
+.footer p {
+    margin-top: 1rem;
+}
+
+.footer span {
+    color: var(--secundario);
+    font-weight: bold;
+}
+
+@media(min-width:768px){
+    .footer{
+        margin-top: 5rem; 
+    }
+}

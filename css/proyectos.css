@@ -27,6 +27,11 @@
     font-weight: bold;
 }
 
+.texto-proyecto span {
+    color: var(--secundario);
+    font-weight: bold;
+}
+
 .proyectos-contenedor p {
     font-size: 1.8rem;
     font-family: var(--parrafos);

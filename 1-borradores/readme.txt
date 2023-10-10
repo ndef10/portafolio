@@ -1,3 +1,32 @@
+### Hola 👋 Mi nombre es Nilda Defranchi
+#### Te invito a ver mi trabajo
+![](https://unsplash.com/es/fotos/8bghKxNU1j0)
+
+- 🔭 Actualmente me encuentro trabajando en mi portafolio
+- 🌱 También estoy aprendiendo react
+- 📫 Cómo contactarme: ndefranchim@gmail.com
+
+Habilidades: JS / HTML / CSS / HANDLEBARS.JS / POSTGRESQL
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/ndef10)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/ndef10&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/ndef10)  
+
+![GitHub metrics](https://metrics.lecoq.io/https://github.com/ndef10)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/ndef10)  
+
+### Hola 👋, my name is Nilda
+#### I am GitHub Readme Generator's creator
+![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+
+Habilidades: VUE JS / REACT / JS / HTML / CSS
 # Actas España
 
 Este es el sitio web oficial de "Actas España" donde se entrega asesoría para trámite de ciudadanía Española.

@@ -48,7 +48,7 @@ El diseño de la interfaz se realizó de acuerdo a mi gusto.
 
 El proyecto está disponible en el siguiente [Link:](https://portafoliondef.netlify.app/)
 
-##Autor/ Contacto
+## Autor/ Contacto
 
 **Nilda Defranchi**
 

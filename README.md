@@ -56,7 +56,7 @@ El proyecto está disponible en el siguiente [Link](https://portafoliondef.netli
 
 - 📫 Envíame un correo a **ndefranchim@gmail.com**
 
-- <p><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ndefranchi" height="15" width="15" style="margin-right: 2px;" />Mira mi perfil de <a href="https://www.linkedin.com/in/nildadefranchi/">LinkedIn</a>
+- <p><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ndefranchi" height="15" width="15" style="margin-right: 1px;" />Mira mi perfil de <a href="https://www.linkedin.com/in/nildadefranchi/">LinkedIn</a>
 </p>
 
 ## Licencia

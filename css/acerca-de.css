@@ -16,3 +16,8 @@
 .acerca-de a {
     color: var(--secundario);
 }
+
+.acerca-de i {
+    color: var(--blanco);
+    font-size: 5rem;
+}

@@ -31,6 +31,8 @@ Landing page realizada con HTML, CSS, Javascript, usando metodología BEM y una 
 
 ## Tecnologías utilizadas
 
+![](https://as1.ftcdn.net/v2/jpg/06/20/77/92/1000_F_620779254_fePxfxat7Xu5FTwvNrd4j7L4ToDgAKlF.jpg)
+
 - HTML5
 - CSS3
 - JavaScript

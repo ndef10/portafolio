@@ -1,35 +1,10 @@
-### Hola 👋 Mi nombre es Nilda Defranchi
-#### Te invito a ver mi trabajo
-![](https://unsplash.com/es/fotos/8bghKxNU1j0)
+# Portafolio
 
-- 🔭 Actualmente me encuentro trabajando en mi portafolio
-- 🌱 También estoy aprendiendo react
-- 📫 Cómo contactarme: ndefranchim@gmail.com
+¡Bienvenido a mi portafolio de desarrolladora full-stack JavaScript! Aquí encontrarás una muestra de mis habilidades, experiencia y proyectos destacados en el emocionante mundo del desarrollo web.
 
-Habilidades: JS / HTML / CSS / HANDLEBARS.JS / POSTGRESQL
+## Descripción
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/ndef10)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/ndef10&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/ndef10)  
-
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/ndef10)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/ndef10)  
-
-### Hola 👋, my name is Nilda
-#### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
-
-Habilidades: VUE JS / REACT / JS / HTML / CSS
-# Actas España
-
-Este es el sitio web oficial de "Actas España" donde se entrega asesoría para trámite de ciudadanía Española.
+Landing page realizada con HTML, CSS, Javascript, usando metodología BEM y una arquitectura ITCSS.
 
 ## Contenido
 
@@ -39,12 +14,7 @@ Este es el sitio web oficial de "Actas España" donde se entrega asesoría para 
 - Diseño
 - Despliegue
 - Licencia
-- Autor
-
-## Características
-- Información detallada sobre los tipos de actas requeridas para el trámite de ciudadanía española.
-- Formulario de contacto para recibir consultas y solicitudes de asesoría.
-- Uso de tecnologías modernas para una experiencia de usuario fluida y atractiva.
+- Autor/Contacto
 
 ## Cómo Abrir el Sitio Web
 
@@ -53,7 +23,7 @@ Este es el sitio web oficial de "Actas España" donde se entrega asesoría para 
 <div style="background-color: black; padding: 10px; border-radius: 10px;">
   <pre>
     <code>
-      git clone https://github.com/ndef10/actas.git
+      git clone https://github.com/ndef10/portafolio.git
     </code>
   </pre>
 </div>
@@ -64,7 +34,6 @@ Este es el sitio web oficial de "Actas España" donde se entrega asesoría para 
 - HTML5
 - CSS3
 - JavaScript
-- Bootstrap CSS v5.2.1 CDN
 - Font aweson CDN
 - Google fonts CDN
 - Normalize local
@@ -73,15 +42,22 @@ Este es el sitio web oficial de "Actas España" donde se entrega asesoría para 
 
 ## Diseño
 
-El diseño de la interfaz se realizó de acuerdo a los requerimientos del cliente
+El diseño de la interfaz se realizó de acuerdo a mi gusto.
 
 ## Despliegue
 
-El proyecto está disponible en el siguiente link: 
+El proyecto está disponible en el siguiente [Link:](https://portafoliondef.netlify.app/)
+
+##Autor/ Contacto
+
+**Nilda Defranchi**
+
+- 👨‍💻 Puedes ver más proyectos en mi [Portafolio](https://portafoliondef.netlify.app/)
+
+- 📫 Envíame un correo a **ndefranchim@gmail.com**
+
+- <p><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ndefranchi" height="15" width="15" style="margin-right: 5px;" />Mira mi perfil de <a href="https://linkedin.com/in/ndefranchi">LinkedIn</a>
+</p>
 
 ## Licencia
-Este proyecto está bajo la Licencia MIT. Puedes ver el archivo de licencia aquí https://www.mit.edu/search/?q=licence+mit#gsc.tab=0&gsc.q=licence%20mit&gsc.page=1.
-
-## Autor
-
-Nilda Marcela Defranchi Morales
+Este proyecto está bajo la Licencia MIT. Puedes ver el archivo de licencia [aquí](https://www.mit.edu/search/?q=licence+mit#gsc.tab=0&gsc.q=licence%20mit&gsc.page=1.) 

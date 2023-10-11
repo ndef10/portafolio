@@ -2,6 +2,10 @@
 
 ¡Bienvenido a mi portafolio de desarrolladora full-stack JavaScript! Aquí encontrarás una muestra de mis habilidades, experiencia y proyectos destacados en el emocionante mundo del desarrollo web.
 
+## Descripción
+
+Landing page realizada con HTML, CSS, Javascript, usando metodología BEM y una arquitectura ITCSS.
+
 ## Contenido
 
 - Características
@@ -10,10 +14,7 @@
 - Diseño
 - Despliegue
 - Licencia
-- Autor
-
-## Características
-Landing page realizada con Javascript para mostrar mis trabajos
+- Autor/Contacto
 
 ## Cómo Abrir el Sitio Web
 
@@ -33,24 +34,30 @@ Landing page realizada con Javascript para mostrar mis trabajos
 - HTML5
 - CSS3
 - JavaScript
-- Bootstrap CSS v5.2.1 CDN*
-- Font aweson CDN*
+- Font aweson CDN
 - Google fonts CDN
 - Normalize local
 - Git
-- Formspree*
+- Formspree
 
 ## Diseño
 
-El diseño de la interfaz se realizó de acuerdo a mi gusto
+El diseño de la interfaz se realizó de acuerdo a mi gusto.
 
 ## Despliegue
 
-El proyecto está disponible en el siguiente link: https://portafoliondef.netlify.app/
+El proyecto está disponible en el siguiente [Link:](https://portafoliondef.netlify.app/)
+
+##Autor/ Contacto
+
+**Nilda Defranchi**
+
+- 👨‍💻 Puedes ver más proyectos en mi [Portafolio](https://portafoliondef.netlify.app/)
+
+- 📫 Envíame un correo a **ndefranchim@gmail.com**
+
+- <p><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ndefranchi" height="15" width="15" style="margin-right: 5px;" />Mira mi perfil de <a href="https://linkedin.com/in/ndefranchi">LinkedIn</a>
+</p>
 
 ## Licencia
-Este proyecto está bajo la Licencia MIT. Puedes ver el archivo de licencia aquí https://www.mit.edu/search/?q=licence+mit#gsc.tab=0&gsc.q=licence%20mit&gsc.page=1.
-
-## Autor
-
-Nilda Marcela Defranchi Morales
+Este proyecto está bajo la Licencia MIT. Puedes ver el archivo de licencia [aquí](https://www.mit.edu/search/?q=licence+mit#gsc.tab=0&gsc.q=licence%20mit&gsc.page=1.) 

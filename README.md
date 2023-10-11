@@ -46,7 +46,7 @@ El diseño de la interfaz se realizó de acuerdo a mi gusto.
 
 ## Despliegue
 
-El proyecto está disponible en el siguiente [Link:](https://portafoliondef.netlify.app/)
+El proyecto está disponible en el siguiente [Link](https://portafoliondef.netlify.app/)
 
 ## Autor/ Contacto
 
@@ -56,7 +56,7 @@ El proyecto está disponible en el siguiente [Link:](https://portafoliondef.netl
 
 - 📫 Envíame un correo a **ndefranchim@gmail.com**
 
-- <p><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ndefranchi" height="15" width="15" style="margin-right: 5px;" />Mira mi perfil de <a href="https://linkedin.com/in/ndefranchi">LinkedIn</a>
+- <p><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ndefranchi" height="15" width="15" style="margin-right: 2px;" />Mira mi perfil de <a href="https://www.linkedin.com/in/nildadefranchi/">LinkedIn</a>
 </p>
 
 ## Licencia

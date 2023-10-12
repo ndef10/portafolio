@@ -18,12 +18,16 @@
     align-items: center;
 }
 
+/* .informacion-contacto h2 {
+    font-size: 4rem;
+} */
+
 .informacion-contacto, .formulario{
     flex: 0 0 calc(50% - 1rem);
 }
 
 .titulo-fantasma {
-    font-size: 3rem;
+    font-size: 4rem;
     font-family: var(--titulos);
     color: var(--secundario);
     text-align: center;
@@ -36,12 +40,16 @@
     padding: 1rem;
 }
 
-.informacion-contacto p, .redes-sociales i{
+.informacion-contacto p {
+    color: var(--gris);
+}
+
+.redes-sociales i {
     color: var(--blanco);
 }
 
-.informacion-contacto h3{
-    font-size: 3rem;
+.informacion-contacto h2{
+    /* font-size: 3rem; */
     font-family: var(--titulos);
     color: var(--secundario);
 }
@@ -107,8 +115,8 @@
 }
 
 @media(min-width: 768px) {
-    .informacion-contacto h3{
-        font-size: 4rem;
+    .informacion-contacto h2{
+        /* font-size: 4rem; */
         margin-top: 0;
     }
     
@@ -125,7 +133,7 @@
     }
 
     .input-formulario input, .input-formulario textarea{ 
-        font-size: 2rem;
+        font-size: 1.5rem;
     }
 
     .titulo-fantasma {

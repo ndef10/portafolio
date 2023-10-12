@@ -9,13 +9,13 @@
     text-align: center;
 }
 
-.habilidades-contenedor h2 {
+/* .habilidades-contenedor h2 {
     font-size: 3.5rem;
-}
+} */
 
 @media(min-width:768px){
     .habilidades-contenedor h2 {
-        font-size: 4.5rem;
+        /* font-size: 4.5rem; */
         line-height: 7rem;
         color: var(--secundario);
         text-transform: capitalize;
@@ -56,6 +56,7 @@
     .habilidades-contenedor h2 {
         padding: 0;
         color: var(--secundario);
+        /* font-size: 4rem; */
     }
     .tecnologias {
         flex-wrap: wrap;

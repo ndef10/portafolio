@@ -10,7 +10,7 @@ header {
     width: 100%;
 }
 
- .texto-banner{
+.texto-banner{
     position: absolute;
     z-index: 2;
     width: 100%;
@@ -22,9 +22,9 @@ header {
     padding-top: 100px;
 } 
 
-.texto-banner h2{
+.texto-banner h1{
     color: var(--blanco);
-    font-size: 2.5rem;
+    font-size: 3rem;
 }
 
 .texto-banner p {
@@ -60,7 +60,7 @@ img {
         font-size: 2.5rem;
     }
 
-    .texto-banner h2{
+    .texto-banner h1{
         font-size: 5rem;
     }
 
@@ -91,8 +91,8 @@ img {
     }
 
     .btn-banner:hover {
-        color: var(--secundario);
-        border: 5px solid var(--secundario);
+        color: var(--gris);
+        border: 5px solid var(--gris);
         background-color: var(--negro);
     }
 }

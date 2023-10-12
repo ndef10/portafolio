@@ -10,32 +10,32 @@
 }
 
 .proyectos-contenedor h2 {
-    font-size: 4.5rem;
+    /* font-size: 4rem; */
     font-family: var(--titulos);
     line-height: 7rem;
     color: var(--secundario);
     margin-bottom: 1rem;
 }
 
-.proyectos-texto {
+/* .proyectos-texto {
     line-height: 1.5;
 
-}
+} */
 
 .proyectos-texto span {
     color: var(--secundario);
-    font-weight: bold;
+    /* font-weight: bold; */
 }
 
 .texto-proyecto span {
     color: var(--secundario);
-    font-weight: bold;
+    /* font-weight: bold; */
 }
 
 .proyectos-contenedor p {
     font-size: 1.8rem;
     font-family: var(--parrafos);
-    color: var(--blanco);
+    color: var(--gris);
     padding: 0 2rem;
     margin-bottom: 3rem;
 }
@@ -62,13 +62,17 @@
 
 .texto-proyecto {
     width: 35rem;
-    height: 13rem;
+    height: 15rem;
     padding: 0;
     margin: auto;
     margin-bottom: 2rem;
     white-space: wrap;
     overflow: hidden;
     text-overflow: ellipsis; 
+}
+
+.texto-proyecto p {
+    color: var(--gris);
 }
 
 .proyecto h3 {
@@ -90,7 +94,7 @@
     .proyectos-contenedor h2 {
         padding: 0;
         color: var(--secundario);
-        font-size: 3.5rem;
+        /* font-size: 3.5rem; */
     }
 
     .proyectos-trio {

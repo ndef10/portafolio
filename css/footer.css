@@ -1,7 +1,7 @@
 .footer{
     text-align: center;
     background-color: var(--oscuro);
-    color: var(--blanco);
+    color: var(--gris);
     padding-top: 3rem;
     font-size: 2rem;
     padding-bottom: 2rem;
@@ -13,7 +13,7 @@
 
 .footer span {
     color: var(--secundario);
-    font-weight: bold;
+    /* font-weight: bold; */
 }
 
 @media(min-width:768px){

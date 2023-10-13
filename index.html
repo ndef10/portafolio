@@ -365,30 +365,31 @@
     <h2 class="titulo-fantasma">Formulario de contacto</h2>  
       <div class="input-formulario">
         <label for="nombre">Nombre</label>
-        <input type="text" placeholder="Ej: La mejor empresa del mundo" name="nombre"/>
-        <span></span>
+        <input type="text" placeholder="Ej: La mejor empresa del mundo" name="nombre" id="nombre"/>
+        <span class="alertas"></span>
       </div>
       
       <div class="input-formulario">
         <label for="correo">Correo</label>
-        <input type="text" placeholder="Ej: ejemplo@ejemplo.com" name="correo" />
+        <input type="text" placeholder="Ej: ejemplo@ejemplo.com" name="correo" id="correo" />
         <span></span>
       </div>
       
       <div class="input-formulario">
         <label for="asunto">Asunto</label>
-        <input type="text" placeholder="Ej: Queremos darte una oportunidad" name="asunto" />
+        <input type="text" placeholder="Ej: Queremos darte una oportunidad" name="asunto" id="asunto" />
         <span></span>
       </div>
       <div class="input-formulario">
         <label for="mensaje">Mensaje</label>
-        <textarea name="mensaje" placeholder="Escribe aquí tu mensaje"></textarea>
+        <textarea name="mensaje" id="mensaje" placeholder="Escribe aquí tu mensaje"></textarea>
         <span></span>
       </div>
-      <div id="mensaje_contacto"></div>
+      <p class="mensaje-exito" id="mensaje-exito"></p>
       <div class="btn-formulario">
-        <input id="enviar" type="submit" class="btn btn-nuevo" name="submit" value="Enviar" />
+        <button type="submit" class="btn btn-nuevo">Vamos a trabajar juntos</button>
       </div>
+      
 
       <input type="hidden" name="_next" value="http://127.0.0.1:5500/index.html#contacto" ></input>
       <input type="hidden" name="_captcha" value="false"></input> 
@@ -405,8 +406,6 @@
 
 </section>
 
-
-  
     <!-- js -->
     <script defer src="js/index.js"></script>
 </body>

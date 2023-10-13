@@ -10,26 +10,18 @@
 }
 
 .proyectos-contenedor h2 {
-    /* font-size: 4rem; */
     font-family: var(--titulos);
     line-height: 7rem;
     color: var(--secundario);
     margin-bottom: 1rem;
 }
 
-/* .proyectos-texto {
-    line-height: 1.5;
-
-} */
-
 .proyectos-texto span {
     color: var(--secundario);
-    /* font-weight: bold; */
 }
 
 .texto-proyecto span {
     color: var(--secundario);
-    /* font-weight: bold; */
 }
 
 .proyectos-contenedor p {
@@ -94,7 +86,6 @@
     .proyectos-contenedor h2 {
         padding: 0;
         color: var(--secundario);
-        /* font-size: 3.5rem; */
     }
 
     .proyectos-trio {

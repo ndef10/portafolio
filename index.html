@@ -364,30 +364,30 @@
     <form id="form-contacto" class="formulario"  action="https://formsubmit.co/ndefranchim@gmail.com" method="POST" />
     <h2 class="titulo-fantasma">Formulario de contacto</h2>  
       <div class="input-formulario">
-        <label for="nombre">Nombre</label>
-        <input type="text" placeholder="Ej: La mejor empresa del mundo" name="nombre" id="nombre"/>
+        <input type="text" placeholder=" " name="nombre" id="nombre"/>
+        <label class="label-animado" for="nombre">Nombre</label>
         <span class="alertas"></span>
       </div>
       
       <div class="input-formulario">
-        <label for="correo">Correo</label>
-        <input type="text" placeholder="Ej: ejemplo@ejemplo.com" name="correo" id="correo" />
+        <input type="text" placeholder=" " name="correo" id="correo" />
+        <label class="label-animado" for="correo">Correo</label>
         <span></span>
       </div>
       
       <div class="input-formulario">
-        <label for="asunto">Asunto</label>
-        <input type="text" placeholder="Ej: Queremos darte una oportunidad" name="asunto" id="asunto" />
+        <input type="text" placeholder=" " name="asunto" id="asunto" />
+        <label class="label-animado" for="asunto">Asunto</label>
         <span></span>
       </div>
       <div class="input-formulario">
-        <label for="mensaje">Mensaje</label>
-        <textarea name="mensaje" id="mensaje" placeholder="Escribe aquí tu mensaje"></textarea>
+        <textarea type="text" placeholder=" " name="mensaje" id="mensaje"></textarea>
+        <label class="label-animado" for="mensaje">Mensaje</label>
         <span></span>
       </div>
-      <p class="mensaje-exito" id="mensaje-exito"></p>
+      <p class="error" id="contenedor-mensajes"></p>
       <div class="btn-formulario">
-        <button type="submit" class="btn btn-nuevo">Vamos a trabajar juntos</button>
+        <button type="submit" class="btn btn-nuevo">Enviar</button>
       </div>
       
 

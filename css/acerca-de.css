@@ -23,6 +23,13 @@
     color: var(--gris);
     font-size: 5rem;
     padding: 0 1rem;
+    transition: transform 0.3s ease-in-out, color 0.3s ease-in-out;
+}
+
+.acerca-de i:hover {
+    transform: scale(1.2);
+    color: var(--blanco);
+  
 }
 
 @media(min-width:768px){

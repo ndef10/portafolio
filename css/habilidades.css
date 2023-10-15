@@ -111,13 +111,11 @@
     height: 5rem;
     margin-top: 3rem;
     object-fit: cover;
-    transition: transform 0.3s ease-in-out, width 0.3s ease-in-out, height 0.3s ease-in-out;
+    transition: transform 0.3s ease-in-out;
 }
 
 .tecnologia img:hover {
-    transform: scale(1.1);
-    width: auto;
-    height: 5.5rem;
+    transform: scale(1.6);
 }
 
 .tecnologias h3 {

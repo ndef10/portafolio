@@ -1,4 +1,4 @@
-.habilidades {
+/* .habilidades {
     padding: 5rem 0;
     background-color: var(--primario);
     position: relative;
@@ -7,19 +7,21 @@
 
 .habilidades-contenedor {
     text-align: center;
-}
+    background-color: aqua;
+} */
 
 @media(min-width:768px){
-    .habilidades-contenedor h2 {
+    /* .habilidades-contenedor h2 {
         line-height: 7rem;
         color: var(--secundario);
         text-transform: capitalize;
         padding: 0 25rem;
         margin-bottom: 1rem;
-    }
+        background: red;
+    } */
 }
 
-.habilidades-contenedor p {
+/* .habilidades-contenedor p {
     font-size: 2rem;
     font-family: var(--parrafos);
     color: var(--blanco);
@@ -34,18 +36,24 @@
 }
 
 .tecnologia img {
-    width: auto; 
-    height: 5rem; 
+    width: auto;
+    height: 5rem;
     margin-top: 3rem;
     object-fit: cover;
+    transition: transform 0.3s ease-in-out, width 0.3s ease-in-out, height 0.3s ease-in-out;
 }
 
+.tecnologia img:hover {
+    transform: scale(1.1);
+    width: auto;
+    height: 5.5rem;
+}
 .tecnologia h3 {
     color: var(--gris);
-}
+} */
 
 @media(max-width:991px){
-    .habilidades {
+    /* .habilidades {
         padding: 30px;
     }
     .habilidades-contenedor h2 {
@@ -60,7 +68,85 @@
     .tecnologias h3{
         display: block;
         color: var(--primario);
-    }
+        background-color: blueviolet;
+    } */
 
 }
 
+/* orden de media query */
+
+
+
+.habilidades {
+    padding: 30px;
+    background-color: var(--primario);
+    position: relative;
+}
+
+.habilidades-contenedor {
+    text-align: center;
+}
+
+.habilidades-contenedor h2 {
+    line-height: 7rem;
+    color: var(--secundario);
+    padding: 0;
+    margin-bottom: 1rem;
+    
+    
+}
+
+.tecnologias {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); 
+    gap: 20px; 
+}
+  
+.tecnologia {
+    text-align: center; 
+}
+
+.tecnologia img {
+    width: auto;
+    height: 5rem;
+    margin-top: 3rem;
+    object-fit: cover;
+    transition: transform 0.3s ease-in-out, width 0.3s ease-in-out, height 0.3s ease-in-out;
+}
+
+.tecnologia img:hover {
+    transform: scale(1.1);
+    width: auto;
+    height: 5.5rem;
+}
+
+.tecnologias h3 {
+    display: block;
+    color: var(--primario);
+} 
+
+.tecnologias-jquery h3 {
+    display: block;
+    color: var(--primario);
+}
+
+@media(min-width:768px){
+    .habilidades {
+        padding: 5rem 0;
+    }
+
+    .habilidades-contenedor h2 {
+        padding: 0 25rem;  
+    }
+
+    .tecnologias {
+        display: grid;
+        grid-template-columns: repeat(9, 1fr); 
+        gap: 20px; 
+    }
+
+    .tecnologia h3 {
+        color: var(--gris);
+    }
+
+}

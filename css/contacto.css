@@ -70,6 +70,13 @@
     margin-top: 1.2rem;
     margin-right: 3rem;
     padding-bottom: 5rem;
+    /* transition: transform 0.3s ease-in-out, color 0.3s ease-in-out; */
+}
+
+.redes-sociales i:hover {
+    transform: scale(1.2);
+    color: var(--secundario);
+  
 }
 
 /* formulario*/
@@ -186,11 +193,10 @@ textarea:not(:placeholder-shown) + .label-animado {
 
 .exito {
     display: block;
-    color: var(--blanco);
+    color: var(--success);
     font-size: 1.7rem;
     text-align: center;
     border-radius: 5px;
     font-family: var(--parrafos);
-    background-color: var(--success);
 } 
 

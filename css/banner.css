@@ -39,12 +39,14 @@ header {
     border: 5px solid var(--blanco);
     padding: 1rem 6rem;
     border-radius: 5px;
+    transition: all 0.3s;
 }
 
 .btn-banner:hover {
     color: var(--secundario);
-    border: 5px solid var(--secundario);
-    background-color: var(--negro);
+    font-weight: bold;
+    border: 5px solid var(--primario);
+    background-color: var(--primario);
 }
 
 img {
@@ -78,21 +80,6 @@ img {
     .texto-banner img {
         border-radius: 50%;
         object-fit: cover;
-    }
-    
-    .btn-banner {
-        display: block;
-        color: var(--blanco);
-        font-size: 2rem;
-        border: 5px solid var(--blanco);
-        padding: 1rem 6rem;
-        border-radius: 5px;
-    }
-
-    .btn-banner:hover {
-        color: var(--gris);
-        border: 5px solid var(--gris);
-        background-color: var(--negro);
-    }
+    }   
 }
 

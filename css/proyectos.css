@@ -50,6 +50,11 @@
     height: 23rem; 
     border-radius: 1rem;
     border: 0.5rem solid var(--gris);
+    transition: transform 0.3s ease-in-out;
+}
+
+.proyecto img:hover {
+    transform: scale(1.1);
 }
 
 .texto-proyecto {

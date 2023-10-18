@@ -28,12 +28,6 @@ body{
     color: var(--blanco);
 }
 
-@media(max-width:950px){
-    body {
-        padding-top: 10rem;
-    }
-}
-
 *,*::after, *::before{
     box-sizing: inherit;
 }
@@ -85,7 +79,6 @@ img {
 
 .btn-nuevo{
     text-decoration: none;
-
     color: var(--blanco);
     font-size: 1.8rem;
     text-transform: capitalize;
@@ -102,6 +95,25 @@ img {
     color: var(--primario);
 }
 
+.btn-banner {
+    display: inline-block;
+    color: var(--blanco);
+    font-size: 2rem;
+    border: 5px solid var(--blanco);
+    padding: 1rem 6rem;
+    margin: 3rem;
+    justify-content: center;
+    border-radius: 5px;
+    transition: all 0.3s;
+}
+
+.btn-banner:hover {
+    color: var(--blanco);
+    font-weight: bold;
+    border: 5px solid var(--secundario);
+    background-color: var(--primario);
+}
+
 section[id] {
-    scroll-margin-top: 7rem;
+    scroll-margin-top: 8rem;
 }

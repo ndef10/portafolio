@@ -1,3 +1,5 @@
+/* acera de */
+
 .acerca-de {
     background-color: var(--primario);
     text-align: center;
@@ -15,6 +17,10 @@
     padding-top: 6rem;
 }
 
+.acerca-de span {
+    color: var(--secundario);
+}
+
 .acerca-de a {
     color: var(--secundario);
 }
@@ -22,7 +28,8 @@
 .acerca-de i {
     color: var(--gris);
     font-size: 5rem;
-    padding: 0 1rem;
+    padding: 2rem 1rem;
+    margin-bottom: 3rem;
     transition: transform 0.3s ease-in-out, color 0.3s ease-in-out;
 }
 
@@ -50,6 +57,4 @@
     .acerca-de i {
         font-size: 5rem;
     }
-    
-
 }

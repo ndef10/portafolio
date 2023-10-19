@@ -1,33 +1,18 @@
 # Portafolio
 
-¡Bienvenido a mi portafolio de desarrolladora full-stack JavaScript! Aquí encontrarás una muestra de mis habilidades, experiencia y proyectos destacados en el emocionante mundo del desarrollo web.
+¡Bienvenido a mi portafolio. Aquí encontrarás una muestra de mis proyectos destacados.
+
+## Contenido
+
+- Descripción
+- Tecnologías utilizadas
+- Despliegue
+- Autor/Contacto
+- Licencia
 
 ## Descripción
 
 Landing page realizada con HTML, CSS, Javascript, usando metodología BEM y una arquitectura ITCSS.
-
-## Contenido
-
-- Características
-- Cómo abrir el Sitio Web
-- Tecnologías utilizadas
-- Diseño
-- Despliegue
-- Licencia
-- Autor/Contacto
-
-## Cómo Abrir el Sitio Web
-
-1- Clona este repositorio en tu computadora utilizando el siguiente comando:
-
-<div style="background-color: black; padding: 10px; border-radius: 10px;">
-  <pre>
-    <code>
-      git clone https://github.com/ndef10/portafolio.git
-    </code>
-  </pre>
-</div>
-2- Abre el archivo index.html en tu navegador web.
 
 ## Tecnologías utilizadas
 
@@ -40,19 +25,15 @@ Landing page realizada con HTML, CSS, Javascript, usando metodología BEM y una 
 - Git
 - Formspree
 
-## Diseño
-
-El diseño de la interfaz se realizó de acuerdo a mi gusto.
-
 ## Despliegue
 
-El proyecto está disponible en el siguiente [Link](https://portafoliondef.netlify.app/)
+El proyecto está disponible en el siguiente [Link](https://nildadefranchi.com)
 
 ## Autor/ Contacto
 
 **Nilda Defranchi**
 
-- 👨‍💻 Puedes ver más proyectos en mi [Portafolio](https://portafoliondef.netlify.app/)
+- 👨‍💻 Puedes ver más proyectos en mi [Portafolio](https://nildadefranchi.com)
 
 - 📫 Envíame un correo a **ndefranchim@gmail.com**
 

@@ -27,13 +27,13 @@ Landing page realizada con HTML, CSS, Javascript, usando metodología BEM y una 
 
 ## Despliegue
 
-El proyecto está disponible en el siguiente [Link](https://nildadefranchi.com)
+El proyecto está disponible en el siguiente [Link](https://portafolio2025.netlify.app/)
 
 ## Autor/ Contacto
 
 **Nilda Defranchi**
 
-- 👨‍💻 Puedes ver más proyectos en mi [Portafolio](https://nildadefranchi.com)
+- 👨‍💻 Puedes ver más proyectos en mi [Portafolio](https://portafolio2025.netlify.app/)
 
 - 📫 Envíame un correo a **ndefranchim@gmail.com**
 
